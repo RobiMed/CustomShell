@@ -1,2 +1,2 @@
-# IMCSH
-Custom lightweight Linux shell in C
+# Custom lightweight Linux shell in C
+
